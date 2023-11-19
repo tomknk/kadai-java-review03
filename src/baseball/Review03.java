@@ -63,5 +63,6 @@ public class Review03 {
        bbt06.setDraw(2);
        int bbt06Draw = bbt06.getDraw();
        bbt06.report();
+
    }
 }
